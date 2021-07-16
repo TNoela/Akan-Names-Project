@@ -1,19 +1,15 @@
 # Akan-Names
 This is a web application project that takes a users birthday and calculates the day of the week they were born and then outputs their Akan Name depending on what gender they are.
-
 # Author
 Trixie Noela
-
 # Technologies Used
 JavaScript
 HTML
 CSS
 Bootstrap
-
 # Setup Instructions
 Open the Terminal command line (CTRL+ALT+T) and navigate to root. cd Akan-Names
 Clone the repository 
-
 # BDD
 Enter century of birth eg 20 for 2021, Input Eg.20 Output 20
 Enter year of Birth eg 21 for 2021 Input Eg.19 Output 19
@@ -26,11 +22,9 @@ Date(d) is invalid when (d<=0) or (d>31)
 Month(m) is invalid when (m<=0) or (m>12)
 
 Expected Output example: You were born on Sunday and Your akan name is Akosua!,If your gender is female.
-Expected Output example: You were born on Sunday and Your akan name is Kwasi!,If your gender is male.
-                       
+Expected Output example: You were born on Sunday and Your akan name is Kwasi!,If your gender is male.                       
 # Contact Information
 Incase of any enquiries or contributions, be sure to Email me at [noelatrixie@gmail.com]
-
 # License
 MIT License:
 Copyright (c) 2021 Trixie Murugi
