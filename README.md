@@ -25,7 +25,7 @@ Month(m) is invalid when (m<=0) or (m>12)<br>
 Expected Output example: You were born on Sunday and Your akan name is Akosua!,If your gender is female.<br>
 Expected Output example: You were born on Sunday and Your akan name is Kwasi!,If your gender is male.   
 # Live Page
-https://tnoela.github.io/Noela-Project1/
+https://tnoela.github.io/Akan-Names-Project/
 # Contact Information
 Incase of any enquiries or contributions, be sure to Email me at [noelatrixie@gmail.com]
 # License
