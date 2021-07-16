@@ -1,7 +1,8 @@
 # Akan-Names
-This is a web application project that takes a users birthday and calculates the day of the week they were born and then outputs their Akan Name depending on what gender they are.
 # Author
 Trixie Noela
+# Description
+This is a web application project that takes a users birthday and calculates the day of the week they were born and then outputs their Akan Name depending on what gender they are.
 # Technologies Used
 JavaScript<br>
 HTML<br>
@@ -22,7 +23,9 @@ Date(d) is invalid when (d<=0) or (d>31)<br>
 Month(m) is invalid when (m<=0) or (m>12)<br>
 
 Expected Output example: You were born on Sunday and Your akan name is Akosua!,If your gender is female.<br>
-Expected Output example: You were born on Sunday and Your akan name is Kwasi!,If your gender is male.                       
+Expected Output example: You were born on Sunday and Your akan name is Kwasi!,If your gender is male.   
+# Live Page
+https://tnoela.github.io/Noela-Project1/
 # Contact Information
 Incase of any enquiries or contributions, be sure to Email me at [noelatrixie@gmail.com]
 # License
