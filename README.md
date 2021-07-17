@@ -4,14 +4,15 @@
 # Description
 This is a web application project that takes a users birthday and calculates the day of the week they were born and then outputs their Akan Name depending on what gender they are.
 # Technologies Used
-JavaScript<br>
-HTML<br>
-CSS<br>
-Bootstrap<br>
+Markup:*JavaScript<br>
+        *HTML<br>
+        *CSS<br>
+        *Bootstrap<br>
 # Setup Instructions
-Open the Terminal command line:<br>
-        (CTRL+ALT+T) and navigate to root. <b>cd Akan-Names<br>
-Clone the repository: <b>gh repo clone TNoela/Akan-Names-Project
+Markup: *Open the Terminal command line:(CTRL+ALT+T)<br>
+        *Clone the repository: <b>[git clone https://github.com/TNoela/Akan-Names-Project.git]
+        *[cd Akan-Names]<br>
+        *Open index.html file on your browser
 # BDD
 Enter century of birth eg 20 for 2021, Input Eg.20 Output 20<br>
 Enter year of Birth eg 21 for 2021 Input Eg.19 Output 19<br>
