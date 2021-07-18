@@ -15,9 +15,9 @@ This is a web application project that takes a users birthday and calculates the
 *Open index.html file on your browser
 # BDD
 Enter century of birth eg 20 for 2021, Input Eg.20 Output 20<br>
-Enter year of Birth eg 21 for 2021 Input Eg.19 Output 19<br>
+Enter year of Birth eg 21 for 2021 Input Eg.21 Output 21<br>
 Enter month of birth eg 1 for january Input Eg.1 Output 1<br>
-Enter Date of the month you were born in Eg 11 input Eg.20 Output Eg.20<br>
+Enter Date of the month you were born in Eg 11 input Eg.11 Output Eg.11<br>
 Select your gender Input Eg.female Output female<br>
 Then click on Submit. Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.<br>
 
