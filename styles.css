@@ -1,0 +1,140 @@
+body{
+    background: url(C:\Users\NOELA\OneDrive\Desktop\Moringa\Akan-Names\Images\Ghana.jpg) whitesmoke;
+    background-position: center center;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   h1 {
+     font-family: 'Gugi', cursive;
+     font-weight: bolder;
+     text-align: center;
+     color: yellow;
+     margin-bottom: 0px;
+     margin-top: 10px;
+     padding-bottom: 2px;
+     font-size: 48px;
+     text-shadow: 2px 2px 5px black;
+     
+   }
+   .header img {
+    float: left;
+    margin-left: 0;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    }
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    
+    .tg .tg-baqh {
+        text-align: center;
+        vertical-align: top;
+    }
+   .page-footer{
+     background-color: rgba(37, 105, 31, 0.904); 
+     width: 100%;
+   }
+   .overlay{
+     background-color: rgba(0, 0, 0, 0.5);
+     margin-left: 25%;
+     margin-right: 16%;
+     opacity: 0.9;
+     border-radius: 10px;
+   }
+   #get{
+     color: yellow;
+     text-shadow: 2px 2px 5px black;
+     margin-bottom: 10px;
+   }
+   h2{
+     text-align: center;
+     font-weight: bold;
+     color:rgb(255, 255, 255);
+     font-family: 'Helvetica Neue', sans-serif;
+   }
+   .form{
+     margin-bottom: 20px;
+     padding-bottom: 20px;
+   }
+   .form-group{
+     color: rgb(255, 255, 255);
+     font-weight: 600;
+     font-size: 18px;
+     font-family: 'Quattrocento', serif;
+   }
+   .form-check-label{
+     color: rgb(255, 255, 255);
+   }
+   input[type="radio"] {
+     -webkit-transform: scale(1.5);
+     transform: scale(1.5);
+   }
+
+   input[type=number],
+   [type="radio"] {
+    width: 100%;
+    padding: 8px 10px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+   .card{
+     background: rgb(209, 34, 11);
+   }
+   .card-body{
+     color: whitesmoke;
+   }
+   .card-deck{
+     padding-bottom: 20px;
+     font-weight: 600;
+     font-family: 'Sorts Mill Goudy', serif;
+     font-size: 18px;
+   }
+   .footer-copyright{
+     color: rgb(255, 255, 255);
+     font-weight: 600;
+     font-size: 18px;
+   }
+   .footer-copyright a{
+   color: rgb(255, 255, 255);;
+   font-weight: 600;
+   }
+   .footer-copyright a:hover{
+     color: rgb(254, 254, 254);
+     font-weight: 700;
+     text-decoration: none;
+   }
+   .card-text a:hover{
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+   }
